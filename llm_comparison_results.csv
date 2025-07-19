@@ -1,0 +1,501 @@
+﻿model,result
+gemma3:12b,"Patient: Michael Lewis
+Medical Professional(s): Amanda Lewis, Tom Bradley, Carla Jennings"
+llama3.1:8b,"Patient: Michael Lewis
+Medical Professional(s): Dr. Carla Jennings, Nurse Tom Bradley, Dr. Amanda Lewis"
+gemini2.5-flash,"Patient: Michael Lewis
+Medical Professional(s): Tom Bradley, Carla Jennings"
+claude-opus-4-20250514,"Patient: Michael Lewis
+Medical Professional(s): Tom Bradley, Dr. Carla Jennings"
+gpt-4.1,"Patient: Michael Lewis
+Medical Professional(s): Dr Amanda Lewis, Nurse Tom Bradley, Dr Carla Jennings"
+gemma3:12b,"Patient: Michael Lewis
+Medical Professional(s): Amanda Lewis, Tom Bradley, Carla Jennings"
+llama3.1:8b,"Patient: Michael Lewis
+Medical Professional(s): Dr. Carla Jennings, Nurse Tom Bradley, Dr. Amanda Lewis"
+gemini2.5-flash,"Patient: Michael Lewis
+Medical Professional(s): Tom Bradley, Carla Jennings"
+claude-opus-4-20250514,"Patient: Michael Lewis
+Medical Professional(s): Tom Bradley, Dr. Carla Jennings"
+gpt-4.1,"Patient: Michael Lewis
+Medical Professional(s): Dr Amanda Lewis, Nurse Tom Bradley, Dr Carla Jennings"
+gemma3:12b,"Patient: Michael Lewis
+Medical Professional(s): Amanda Lewis, Tom Bradley, Carla Jennings"
+llama3.1:8b,"Patient: Michael Lewis
+Medical Professional(s): Dr. Carla Jennings, Dr. Amanda Lewis (also husband's wife) , Nurse Tom Bradley"
+gemini2.5-flash,"Patient: Michael Lewis
+Medical Professional(s): Nurse Tom Bradley, Dr. Carla Jennings"
+claude-opus-4-20250514,"Patient: Michael Lewis
+Medical Professional(s): Tom Bradley, Dr. Carla Jennings"
+gpt-4.1,"Patient: Michael Lewis
+Medical Professional(s): Dr Amanda Lewis, Nurse Tom Bradley, Dr Carla Jennings"
+gemma3:12b,"Patient: Michael Lewis
+Medical Professional(s): Amanda Lewis, Tom Bradley, Carla Jennings"
+llama3.1:8b,"Patient: Michael Lewis
+Medical Professional(s): Dr. Carla Jennings, Nurse Tom Bradley"
+gemini2.5-flash,"Patient: Michael Lewis
+Medical Professional(s): Tom Bradley, Carla Jennings"
+claude-opus-4-20250514,"Patient: Michael Lewis
+Medical Professional(s): Nurse Tom Bradley, Dr. Carla Jennings"
+gpt-4.1,"Patient: Michael Lewis
+Medical Professional(s): Dr Amanda Lewis, Nurse Tom Bradley, Dr Carla Jennings"
+gemma3:12b,"Patient: Michael Lewis
+Medical Professional(s): Amanda Lewis, Tom Bradley, Carla Jennings"
+llama3.1:8b,"Patient: Michael Lewis
+Medical Professional(s): Dr. Carla Jennings, Nurse Tom Bradley"
+gemini2.5-flash,"Patient: Michael Lewis
+Medical Professional(s): Nurse Tom Bradley, Dr. Carla Jennings"
+claude-opus-4-20250514,"Patient: Michael Lewis
+Medical Professional(s): Tom Bradley, Dr. Carla Jennings"
+gpt-4.1,"Patient: Michael Lewis
+Medical Professional(s): Dr Amanda Lewis, Nurse Tom Bradley, Dr Carla Jennings"
+gemma3:12b,"Patient: Michael Lewis
+Medical Professional(s): Amanda Lewis, Tom Bradley, Carla Jennings"
+llama3.1:8b,"Patient: Michael Lewis
+Medical Professional(s): Dr. Carla Jennings, Nurse Tom Bradley, Dr. Amanda Lewis"
+gemini2.5-flash,"Patient: Michael Lewis
+Medical Professional(s): Nurse Tom Bradley, Dr. Carla Jennings"
+claude-opus-4-20250514,"Patient: Michael Lewis
+Medical Professional(s): Tom Bradley, Dr. Carla Jennings"
+gpt-4.1,"Patient: Michael Lewis
+Medical Professional(s): Dr Amanda Lewis, Nurse Tom Bradley, Dr Carla Jennings"
+gemma3:12b,"Patient: Michael Lewis
+Medical Professional(s): Amanda Lewis, Tom Bradley, Carla Jennings"
+llama3.1:8b,"Patient: Michael Lewis
+Medical Professional(s): Dr. Carla Jennings, Nurse Tom Bradley, Dr. Amanda Lewis"
+gemini2.5-flash,"Patient: Michael Lewis
+Medical Professional(s): Nurse Tom Bradley, Dr. Carla Jennings"
+claude-opus-4-20250514,"Patient: Michael Lewis
+Medical Professional(s): Nurse Tom Bradley, Dr. Carla Jennings"
+gpt-4.1,"Patient: Michael Lewis
+Medical Professional(s): Dr Amanda Lewis, Nurse Tom Bradley, Dr Carla Jennings"
+gemma3:12b,"Patient: Michael Lewis
+Medical Professional(s): Amanda Lewis, Tom Bradley, Carla Jennings"
+llama3.1:8b,"Patient: Michael Lewis
+Medical Professional(s): Dr. Carla Jennings, Nurse Tom Bradley, Dr. Amanda Lewis"
+gemini2.5-flash,"Patient: Michael Lewis
+Medical Professional(s): Nurse Tom Bradley, Dr. Carla Jennings"
+claude-opus-4-20250514,"Patient: Michael Lewis
+Medical Professional(s): Tom Bradley, Dr. Carla Jennings"
+gpt-4.1,"Patient: Michael Lewis
+Medical Professional(s): Dr Amanda Lewis, Nurse Tom Bradley, Dr Carla Jennings"
+gemma3:12b,"Patient: Michael Lewis
+Medical Professional(s): Amanda Lewis, Tom Bradley, Carla Jennings"
+llama3.1:8b,"Patient: Michael Lewis
+Medical Professional(s): Dr. Carla Jennings, Nurse Tom Bradley, Dr. Amanda Lewis"
+gemini2.5-flash,"Patient: Michael Lewis
+Medical Professional(s): Nurse Tom Bradley, Dr. Carla Jennings"
+claude-opus-4-20250514,"Patient: Michael Lewis
+Medical Professional(s): Tom Bradley, Dr. Carla Jennings"
+gpt-4.1,"Patient: Michael Lewis
+Medical Professional(s): Dr Amanda Lewis, Nurse Tom Bradley, Dr Carla Jennings"
+gemma3:12b,"Patient: Michael Lewis
+Medical Professional(s): Amanda Lewis, Tom Bradley, Carla Jennings"
+llama3.1:8b,"Patient: Michael Lewis
+Medical Professional(s): Dr. Carla Jennings, Nurse Tom Bradley, Dr. Amanda Lewis"
+gemini2.5-flash,"Patient: Michael Lewis
+Medical Professional(s): Tom Bradley, Carla Jennings"
+claude-opus-4-20250514,"Patient: Michael Lewis
+Medical Professional(s): Tom Bradley, Dr. Carla Jennings"
+gpt-4.1,"Patient: Michael Lewis
+Medical Professional(s): Dr Amanda Lewis, Nurse Tom Bradley, Dr Carla Jennings"
+gemma3:12b,"Patient: Michael Lewis
+Medical Professional(s): Amanda Lewis, Tom Bradley, Carla Jennings"
+llama3.1:8b,"Patient: Michael Lewis
+Medical Professional(s): Dr. Carla Jennings, Nurse Tom Bradley, Dr. Amanda Lewis"
+gemini2.5-flash,"Patient: Michael Lewis
+Medical Professional(s): Tom Bradley, Carla Jennings"
+claude-opus-4-20250514,"Patient: Michael Lewis
+Medical Professional(s): Nurse Tom Bradley, Dr. Carla Jennings"
+gpt-4.1,"Patient: Michael Lewis
+Medical Professional(s): Dr Amanda Lewis, Nurse Tom Bradley, Dr Carla Jennings"
+gemma3:12b,"Patient: Michael Lewis
+Medical Professional(s): Amanda Lewis, Tom Bradley, Carla Jennings"
+llama3.1:8b,"Patient: Michael Lewis
+Medical Professional(s): Dr. Carla Jennings, Nurse Tom Bradley, Dr. Amanda Lewis"
+gemini2.5-flash,"Patient: Michael Lewis
+Medical Professional(s): Tom Bradley, Carla Jennings"
+claude-opus-4-20250514,"Patient: Michael Lewis
+Medical Professional(s): Tom Bradley, Dr. Carla Jennings"
+gpt-4.1,"Patient: Michael Lewis
+Medical Professional(s): Dr Amanda Lewis, Nurse Tom Bradley, Dr Carla Jennings"
+gemma3:12b,"Patient: Michael Lewis
+Medical Professional(s): Amanda Lewis, Tom Bradley, Carla Jennings"
+llama3.1:8b,"Patient: Michael Lewis
+Medical Professional(s): Dr. Carla Jennings, Nurse Tom Bradley, Dr. Amanda Lewis"
+gemini2.5-flash,"Patient: Michael Lewis
+Medical Professional(s): Nurse Tom Bradley, Dr. Carla Jennings"
+claude-opus-4-20250514,"Patient: Michael Lewis
+Medical Professional(s): Nurse Tom Bradley, Dr. Carla Jennings"
+gpt-4.1,"Patient: Michael Lewis
+Medical Professional(s): Dr Amanda Lewis, Nurse Tom Bradley, Dr Carla Jennings"
+gemma3:12b,"Patient: Michael Lewis
+Medical Professional(s): Amanda Lewis, Tom Bradley, Carla Jennings"
+llama3.1:8b,"Patient: Michael Lewis
+Medical Professional(s): Dr. Carla Jennings, Nurse Tom Bradley, Dr. Amanda Lewis"
+gemini2.5-flash,"Patient: Michael Lewis
+Medical Professional(s): Tom Bradley, Carla Jennings"
+claude-opus-4-20250514,"Patient: Michael Lewis
+Medical Professional(s): Tom Bradley, Dr. Carla Jennings"
+gpt-4.1,"Patient: Michael Lewis
+Medical Professional(s): Dr Amanda Lewis, Nurse Tom Bradley, Dr Carla Jennings"
+gemma3:12b,"Patient: Michael Lewis
+Medical Professional(s): Amanda Lewis, Tom Bradley, Carla Jennings"
+llama3.1:8b,"Patient: Michael Lewis
+Medical Professional(s): Dr. Carla Jennings, Nurse Tom Bradley, Dr. Amanda Lewis"
+gemini2.5-flash,"Patient: Michael Lewis
+Medical Professional(s): Nurse Tom Bradley, Dr. Carla Jennings"
+claude-opus-4-20250514,"Patient: Michael Lewis
+Medical Professional(s): Tom Bradley, Dr. Carla Jennings"
+gpt-4.1,"Patient: Michael Lewis
+Medical Professional(s): Dr Amanda Lewis, Nurse Tom Bradley, Dr Carla Jennings"
+gemma3:12b,"Patient: Michael Lewis
+Medical Professional(s): Amanda Lewis, Tom Bradley, Carla Jennings"
+llama3.1:8b,"Patient: Michael Lewis
+Medical Professional(s): Dr. Carla Jennings, Nurse Tom Bradley, Dr. Amanda Lewis"
+gemini2.5-flash,"Patient: Michael Lewis
+Medical Professional(s): Tom Bradley, Carla Jennings"
+claude-opus-4-20250514,"Patient: Michael Lewis
+Medical Professional(s): Tom Bradley, Dr. Carla Jennings"
+gpt-4.1,"Patient: Michael Lewis
+Medical Professional(s): Dr Amanda Lewis, Nurse Tom Bradley, Dr Carla Jennings"
+gemma3:12b,"Patient: Michael Lewis
+Medical Professional(s): Amanda Lewis, Tom Bradley, Carla Jennings"
+llama3.1:8b,"Patient: Michael Lewis
+Medical Professional(s): Dr Amanda Lewis, Nurse Tom Bradley, Dr Carla Jennings"
+gemini2.5-flash,"Patient: Michael Lewis
+Medical Professional(s): Nurse Tom Bradley, Dr. Carla Jennings"
+claude-opus-4-20250514,"Patient: Michael Lewis
+Medical Professional(s): Tom Bradley, Dr. Carla Jennings"
+gpt-4.1,"Patient: Michael Lewis
+Medical Professional(s): Dr Amanda Lewis, Nurse Tom Bradley, Dr Carla Jennings"
+gemma3:12b,"Patient: Michael Lewis
+Medical Professional(s): Amanda Lewis, Tom Bradley, Carla Jennings"
+llama3.1:8b,"Patient: Michael Lewis
+Medical Professional(s): Dr. Carla Jennings, Nurse Tom Bradley, Dr. Amanda Lewis"
+gemini2.5-flash,"Patient: Michael Lewis
+Medical Professional(s): Nurse Tom Bradley, Dr. Carla Jennings"
+claude-opus-4-20250514,"Patient: Michael Lewis
+Medical Professional(s): Tom Bradley, Dr. Carla Jennings"
+gpt-4.1,"Patient: Michael Lewis
+Medical Professional(s): Dr Amanda Lewis, Nurse Tom Bradley, Dr Carla Jennings"
+gemma3:12b,"Patient: Michael Lewis
+Medical Professional(s): Amanda Lewis, Tom Bradley, Carla Jennings"
+llama3.1:8b,"Patient: Michael Lewis
+Medical Professional(s): Dr. Carla Jennings, Nurse Tom Bradley, Dr. Amanda Lewis"
+gemini2.5-flash,"Patient: Michael Lewis
+Medical Professional(s): Nurse Tom Bradley, Dr. Carla Jennings"
+claude-opus-4-20250514,"Patient: Michael Lewis
+Medical Professional(s): Tom Bradley, Dr. Carla Jennings"
+gpt-4.1,"Patient: Michael Lewis
+Medical Professional(s): Dr Amanda Lewis, Nurse Tom Bradley, Dr Carla Jennings"
+gemma3:12b,"Patient: Michael Lewis
+Medical Professional(s): Amanda Lewis, Tom Bradley, Carla Jennings"
+llama3.1:8b,"Patient: Michael Lewis
+Medical Professional(s): Dr. Carla Jennings, Dr. Amanda Lewis, Nurse Tom Bradley"
+gemini2.5-flash,"Patient: Michael Lewis
+Medical Professional(s): Tom Bradley, Carla Jennings"
+claude-opus-4-20250514,"Patient: Michael Lewis
+Medical Professional(s): Tom Bradley, Dr. Carla Jennings"
+gpt-4.1,"Patient: Michael Lewis
+Medical Professional(s): Dr Amanda Lewis, Nurse Tom Bradley, Dr Carla Jennings"
+gemma3:12b,"Patient: Michael Lewis
+Medical Professional(s): Amanda Lewis, Tom Bradley, Carla Jennings"
+llama3.1:8b,"Patient: Michael Lewis
+Medical Professional(s): Dr. Carla Jennings, Nurse Tom Bradley, Dr. Amanda Lewis"
+gemini2.5-flash,"Patient: Michael Lewis
+Medical Professional(s): Nurse Tom Bradley, Dr. Carla Jennings"
+claude-opus-4-20250514,"Patient: Michael Lewis
+Medical Professional(s): Tom Bradley, Dr. Carla Jennings"
+gpt-4.1,"Patient: Michael Lewis
+Medical Professional(s): Dr Amanda Lewis, Nurse Tom Bradley, Dr Carla Jennings"
+gemma3:12b,"Patient: Michael Lewis
+Medical Professional(s): Amanda Lewis, Tom Bradley, Carla Jennings"
+llama3.1:8b,"Patient: Michael Lewis
+Medical Professional(s): Dr. Carla Jennings, Nurse Tom Bradley, Dr. Amanda Lewis"
+gemini2.5-flash,"Patient: Michael Lewis
+Medical Professional(s): Tom Bradley, Carla Jennings"
+claude-opus-4-20250514,"Patient: Michael Lewis
+Medical Professional(s): Tom Bradley, Dr. Carla Jennings"
+gpt-4.1,"Patient: Michael Lewis
+Medical Professional(s): Dr Amanda Lewis, Nurse Tom Bradley, Dr Carla Jennings"
+gemma3:12b,"Patient: Michael Lewis
+Medical Professional(s): Amanda Lewis, Tom Bradley, Carla Jennings"
+llama3.1:8b,"Patient: Michael Lewis
+Medical Professional(s): Dr. Carla Jennings, Nurse Tom Bradley, Dr. Amanda Lewis"
+gemini2.5-flash,"Patient: Michael Lewis
+Medical Professional(s): Nurse Tom Bradley, Dr Carla Jennings"
+claude-opus-4-20250514,"Patient: Michael Lewis
+Medical Professional(s): Tom Bradley, Dr. Carla Jennings"
+gpt-4.1,"Patient: Michael Lewis
+Medical Professional(s): Dr Amanda Lewis, Nurse Tom Bradley, Dr Carla Jennings"
+gemma3:12b,"Patient: Michael Lewis
+Medical Professional(s): Amanda Lewis, Tom Bradley, Carla Jennings"
+llama3.1:8b,"Patient: Michael Lewis
+Medical Professional(s): Dr. Carla Jennings, Nurse Tom Bradley, Dr. Amanda Lewis"
+gemini2.5-flash,"Patient: Michael Lewis
+Medical Professional(s): Nurse Tom Bradley, Dr. Carla Jennings"
+claude-opus-4-20250514,"Patient: Michael Lewis
+Medical Professional(s): Tom Bradley, Dr. Carla Jennings"
+gpt-4.1,"Patient: Michael Lewis
+Medical Professional(s): Dr Amanda Lewis, Nurse Tom Bradley, Dr Carla Jennings"
+gemma3:12b,"Patient: Michael Lewis
+Medical Professional(s): Amanda Lewis, Tom Bradley, Carla Jennings"
+llama3.1:8b,"Patient: Michael Lewis
+Medical Professional(s): Dr. Carla Jennings, Nurse Tom Bradley, Dr. Amanda Lewis"
+gemini2.5-flash,"Patient: Michael Lewis
+Medical Professional(s): Tom Bradley, Carla Jennings"
+claude-opus-4-20250514,"Patient: Michael Lewis
+Medical Professional(s): Tom Bradley, Dr. Carla Jennings"
+gpt-4.1,"Patient: Michael Lewis
+Medical Professional(s): Dr Amanda Lewis, Nurse Tom Bradley, Dr Carla Jennings"
+gemma3:12b,"Patient: Michael Lewis
+Medical Professional(s): Amanda Lewis, Tom Bradley, Carla Jennings"
+llama3.1:8b,"Patient: Michael Lewis
+Medical Professional(s): Dr. Carla Jennings, Nurse Tom Bradley"
+gemini2.5-flash,"Patient: Michael Lewis
+Medical Professional(s): Nurse Tom Bradley, Dr. Carla Jennings"
+claude-opus-4-20250514,"Patient: Michael Lewis
+Medical Professional(s): Tom Bradley, Dr. Carla Jennings"
+gpt-4.1,"Patient: Michael Lewis
+Medical Professional(s): Dr Amanda Lewis, Nurse Tom Bradley, Dr Carla Jennings"
+gemma3:12b,"Patient: Michael Lewis
+Medical Professional(s): Amanda Lewis, Tom Bradley, Carla Jennings"
+llama3.1:8b,"Patient: Michael Lewis
+Medical Professional(s): Dr Amanda Lewis, Nurse Tom Bradley, Dr Carla Jennings"
+gemini2.5-flash,"Patient: Michael Lewis
+Medical Professional(s): Tom Bradley, Carla Jennings"
+claude-opus-4-20250514,"Patient: Michael Lewis
+Medical Professional(s): Tom Bradley, Dr. Carla Jennings"
+gpt-4.1,"Patient: Michael Lewis
+Medical Professional(s): Dr Amanda Lewis, Nurse Tom Bradley, Dr Carla Jennings"
+gemma3:12b,"Patient: Michael Lewis
+Medical Professional(s): Amanda Lewis, Tom Bradley, Carla Jennings"
+llama3.1:8b,"Patient: Michael Lewis
+Medical Professional(s): Dr. Carla Jennings, Nurse Tom Bradley, Dr. Amanda Lewis"
+gemini2.5-flash,"Patient: Michael Lewis
+Medical Professional(s): Tom Bradley, Carla Jennings"
+claude-opus-4-20250514,"Patient: Michael Lewis
+Medical Professional(s): Tom Bradley, Dr. Carla Jennings"
+gpt-4.1,"Patient: Michael Lewis
+Medical Professional(s): Dr Amanda Lewis, Nurse Tom Bradley, Dr Carla Jennings"
+gemma3:12b,"Patient: Michael Lewis
+Medical Professional(s): Amanda Lewis, Tom Bradley, Carla Jennings"
+llama3.1:8b,"Patient: Michael Lewis
+Medical Professional(s): Dr. Carla Jennings, Nurse Tom Bradley, Dr. Amanda Lewis"
+gemini2.5-flash,"Patient: Michael Lewis
+Medical Professional(s): Nurse Tom Bradley, Dr. Carla Jennings"
+claude-opus-4-20250514,"Patient: Michael Lewis
+Medical Professional(s): Tom Bradley, Dr. Carla Jennings"
+gpt-4.1,"Patient: Michael Lewis
+Medical Professional(s): Dr Amanda Lewis, Nurse Tom Bradley, Dr Carla Jennings"
+gemma3:12b,"Patient: Michael Lewis
+Medical Professional(s): Amanda Lewis, Tom Bradley, Carla Jennings"
+llama3.1:8b,"Patient: Michael Lewis
+Medical Professional(s): Dr. Carla Jennings, Nurse Tom Bradley, Dr. Amanda Lewis"
+gemini2.5-flash,"Patient: Michael Lewis
+Medical Professional(s): Tom Bradley, Carla Jennings"
+claude-opus-4-20250514,"Patient: Michael Lewis
+Medical Professional(s): Tom Bradley, Dr. Carla Jennings"
+gpt-4.1,"Patient: Michael Lewis
+Medical Professional(s): Dr Amanda Lewis, Nurse Tom Bradley, Dr Carla Jennings"
+gemma3:12b,"Patient: Michael Lewis
+Medical Professional(s): Amanda Lewis, Tom Bradley, Carla Jennings"
+llama3.1:8b,"Patient: Michael Lewis
+Medical Professional(s): Dr. Carla Jennings, Nurse Tom Bradley, Dr. Amanda Lewis"
+gemini2.5-flash,"Patient: Michael Lewis
+Medical Professional(s): Nurse Tom Bradley, Dr. Carla Jennings"
+claude-opus-4-20250514,"Patient: Michael Lewis
+Medical Professional(s): Tom Bradley, Dr. Carla Jennings"
+gpt-4.1,"Patient: Michael Lewis
+Medical Professional(s): Dr Amanda Lewis, Nurse Tom Bradley, Dr Carla Jennings"
+gemma3:12b,"Patient: Michael Lewis
+Medical Professional(s): Amanda Lewis, Tom Bradley, Carla Jennings"
+llama3.1:8b,"Patient: Michael Lewis
+Medical Professional(s): Dr. Carla Jennings, Nurse Tom Bradley, Dr. Amanda Lewis"
+gemini2.5-flash,"Patient: Michael Lewis
+Medical Professional(s): Tom Bradley, Carla Jennings"
+claude-opus-4-20250514,"Patient: Michael Lewis
+Medical Professional(s): Tom Bradley, Carla Jennings"
+gpt-4.1,"Patient: Michael Lewis
+Medical Professional(s): Dr Amanda Lewis, Nurse Tom Bradley, Dr Carla Jennings"
+gemma3:12b,"Patient: Michael Lewis
+Medical Professional(s): Amanda Lewis, Tom Bradley, Carla Jennings"
+llama3.1:8b,"Patient: Michael Lewis
+Medical Professional(s): Dr. Carla Jennings, Nurse Tom Bradley, Dr. Amanda Lewis"
+gemini2.5-flash,"Patient: Michael Lewis
+Medical Professional(s): Tom Bradley, Carla Jennings"
+claude-opus-4-20250514,"Patient: Michael Lewis
+Medical Professional(s): Tom Bradley, Dr. Carla Jennings"
+gpt-4.1,"Patient: Michael Lewis
+Medical Professional(s): Dr Amanda Lewis, Nurse Tom Bradley, Dr Carla Jennings"
+gemma3:12b,"Patient: Michael Lewis
+Medical Professional(s): Amanda Lewis, Tom Bradley, Carla Jennings"
+llama3.1:8b,"Patient: Michael Lewis
+Medical Professional(s): Dr. Carla Jennings, Nurse Tom Bradley, Dr. Amanda Lewis"
+gemini2.5-flash,"Patient: Michael Lewis
+Medical Professional(s): Tom Bradley, Carla Jennings"
+claude-opus-4-20250514,"Patient: Michael Lewis
+Medical Professional(s): Tom Bradley, Dr. Carla Jennings"
+gpt-4.1,"Patient: Michael Lewis
+Medical Professional(s): Dr Amanda Lewis, Nurse Tom Bradley, Dr Carla Jennings"
+gemma3:12b,"Patient: Michael Lewis
+Medical Professional(s): Amanda Lewis, Tom Bradley, Carla Jennings"
+llama3.1:8b,"Patient: Michael Lewis
+Medical Professional(s): Dr. Carla Jennings, Nurse Tom Bradley, Dr. Amanda Lewis"
+gemini2.5-flash,"Patient: Michael Lewis
+Medical Professional(s): Tom Bradley, Carla Jennings"
+claude-opus-4-20250514,"Patient: Michael Lewis
+Medical Professional(s): Tom Bradley, Dr. Carla Jennings"
+gpt-4.1,"Patient: Michael Lewis
+Medical Professional(s): Dr Amanda Lewis, Nurse Tom Bradley, Dr Carla Jennings"
+gemma3:12b,"Patient: Michael Lewis
+Medical Professional(s): Amanda Lewis, Tom Bradley, Carla Jennings"
+llama3.1:8b,"Patient: Michael Lewis
+Medical Professional(s): Dr. Carla Jennings, Nurse Tom Bradley, Dr. Amanda Lewis"
+gemini2.5-flash,"Patient: Michael Lewis
+Medical Professional(s): Tom Bradley, Carla Jennings"
+claude-opus-4-20250514,"Patient: Michael Lewis
+Medical Professional(s): Tom Bradley, Dr. Carla Jennings"
+gpt-4.1,"Patient: Michael Lewis
+Medical Professional(s): Dr Amanda Lewis, Nurse Tom Bradley, Dr Carla Jennings"
+gemma3:12b,"Patient: Michael Lewis
+Medical Professional(s): Amanda Lewis, Tom Bradley, Carla Jennings"
+llama3.1:8b,"Patient: Michael Lewis
+Medical Professional(s): Dr. Carla Jennings, Nurse Tom Bradley, Dr. Amanda Lewis"
+gemini2.5-flash,"Patient: Michael Lewis
+Medical Professional(s): Tom Bradley, Carla Jennings"
+claude-opus-4-20250514,"Patient: Michael Lewis
+Medical Professional(s): Tom Bradley, Dr. Carla Jennings"
+gpt-4.1,"Patient: Michael Lewis
+Medical Professional(s): Dr Amanda Lewis, Nurse Tom Bradley, Dr Carla Jennings"
+gemma3:12b,"Patient: Michael Lewis
+Medical Professional(s): Amanda Lewis, Tom Bradley, Carla Jennings"
+llama3.1:8b,"Patient: Michael Lewis
+Medical Professional(s): Dr. Carla Jennings, Nurse Tom Bradley, Dr. Amanda Lewis"
+gemini2.5-flash,"Patient: Michael Lewis
+Medical Professional(s): Tom Bradley, Carla Jennings"
+claude-opus-4-20250514,"Patient: Michael Lewis
+Medical Professional(s): Tom Bradley, Dr. Carla Jennings"
+gpt-4.1,"Patient: Michael Lewis
+Medical Professional(s): Dr Amanda Lewis, Nurse Tom Bradley, Dr Carla Jennings"
+gemma3:12b,"Patient: Michael Lewis
+Medical Professional(s): Amanda Lewis, Tom Bradley, Carla Jennings"
+llama3.1:8b,"Patient: Michael Lewis
+Medical Professional(s): Dr Amanda Lewis, Nurse Tom Bradley, Dr Carla Jennings"
+gemini2.5-flash,"Patient: Michael Lewis
+Medical Professional(s): Tom Bradley, Carla Jennings"
+claude-opus-4-20250514,"Patient: Michael Lewis
+Medical Professional(s): Tom Bradley, Dr. Carla Jennings"
+gpt-4.1,"Patient: Michael Lewis
+Medical Professional(s): Dr Amanda Lewis, Nurse Tom Bradley, Dr Carla Jennings"
+gemma3:12b,"Patient: Michael Lewis
+Medical Professional(s): Amanda Lewis, Tom Bradley, Carla Jennings"
+llama3.1:8b,"Patient: Michael Lewis
+Medical Professional(s): Dr. Carla Jennings, Dr. Amanda Lewis (also the patient's wife), Nurse Tom Bradley"
+gemini2.5-flash,"Patient: Michael Lewis
+Medical Professional(s): Nurse Tom Bradley, Dr Carla Jennings"
+claude-opus-4-20250514,"Patient: Michael Lewis
+Medical Professional(s): Tom Bradley, Dr. Carla Jennings"
+gpt-4.1,"Patient: Michael Lewis
+Medical Professional(s): Dr Amanda Lewis, Nurse Tom Bradley, Dr Carla Jennings"
+gemma3:12b,"Patient: Michael Lewis
+Medical Professional(s): Amanda Lewis, Tom Bradley, Carla Jennings"
+llama3.1:8b,"Patient: Michael Lewis
+Medical Professional(s): Dr. Carla Jennings, Nurse Tom Bradley, Dr. Amanda Lewis"
+gemini2.5-flash,"Patient: Michael Lewis
+Medical Professional(s): Nurse Tom Bradley, Dr Carla Jennings"
+claude-opus-4-20250514,"Patient: Michael Lewis
+Medical Professional(s): Tom Bradley, Dr. Carla Jennings"
+gpt-4.1,"Patient: Michael Lewis
+Medical Professional(s): Dr Amanda Lewis, Nurse Tom Bradley, Dr Carla Jennings"
+gemma3:12b,"Patient: Michael Lewis
+Medical Professional(s): Amanda Lewis, Tom Bradley, Carla Jennings"
+llama3.1:8b,"Patient: Michael Lewis
+Medical Professional(s): Dr. Carla Jennings, Nurse Tom Bradley, Dr. Amanda Lewis"
+gemini2.5-flash,"Patient: Michael Lewis
+Medical Professional(s): Nurse Tom Bradley, Dr. Carla Jennings"
+claude-opus-4-20250514,"Patient: Michael Lewis
+Medical Professional(s): Nurse Tom Bradley, Dr. Carla Jennings"
+gpt-4.1,"Patient: Michael Lewis
+Medical Professional(s): Dr Amanda Lewis, Nurse Tom Bradley, Dr Carla Jennings"
+gemma3:12b,"Patient: Michael Lewis
+Medical Professional(s): Amanda Lewis, Tom Bradley, Carla Jennings"
+llama3.1:8b,"Patient: Michael Lewis
+Medical Professional(s): Dr. Carla Jennings, Nurse Tom Bradley, Dr. Amanda Lewis"
+gemini2.5-flash,"Patient: Michael Lewis
+Medical Professional(s): Tom Bradley, Carla Jennings"
+claude-opus-4-20250514,"Patient: Michael Lewis
+Medical Professional(s): Tom Bradley, Dr. Carla Jennings"
+gpt-4.1,"Patient: Michael Lewis
+Medical Professional(s): Dr Amanda Lewis, Nurse Tom Bradley, Dr Carla Jennings"
+gemma3:12b,"Patient: Michael Lewis
+Medical Professional(s): Amanda Lewis, Tom Bradley, Carla Jennings"
+llama3.1:8b,"Patient: Michael Lewis
+Medical Professional(s): Dr. Carla Jennings, Nurse Tom Bradley, Dr. Amanda Lewis"
+gemini2.5-flash,"Patient: Michael Lewis
+Medical Professional(s): Tom Bradley, Carla Jennings"
+claude-opus-4-20250514,"Patient: Michael Lewis
+Medical Professional(s): Tom Bradley, Dr. Carla Jennings"
+gpt-4.1,"Patient: Michael Lewis
+Medical Professional(s): Dr Amanda Lewis, Nurse Tom Bradley, Dr Carla Jennings"
+gemma3:12b,"Patient: Michael Lewis
+Medical Professional(s): Amanda Lewis, Tom Bradley, Carla Jennings"
+llama3.1:8b,"Patient: Michael Lewis
+Medical Professional(s): Dr. Carla Jennings, Nurse Tom Bradley, Dr. Amanda Lewis"
+gemini2.5-flash,"Patient: Michael Lewis
+Medical Professional(s): Tom Bradley, Carla Jennings"
+claude-opus-4-20250514,"Patient: Michael Lewis
+Medical Professional(s): Nurse Tom Bradley, Dr. Carla Jennings"
+gpt-4.1,"Patient: Michael Lewis
+Medical Professional(s): Dr Amanda Lewis, Nurse Tom Bradley, Dr Carla Jennings"
+gemma3:12b,"Patient: Michael Lewis
+Medical Professional(s): Amanda Lewis, Tom Bradley, Carla Jennings"
+llama3.1:8b,"Patient: Michael Lewis
+Medical Professional(s): Dr Amanda Lewis, Nurse Tom Bradley, Dr Carla Jennings"
+gemini2.5-flash,"Patient: Michael Lewis
+Medical Professional(s): Tom Bradley, Carla Jennings"
+claude-opus-4-20250514,"Patient: Michael Lewis
+Medical Professional(s): Nurse Tom Bradley, Dr. Carla Jennings"
+gpt-4.1,"Patient: Michael Lewis
+Medical Professional(s): Dr Amanda Lewis, Nurse Tom Bradley, Dr Carla Jennings"
+gemma3:12b,"Patient: Michael Lewis
+Medical Professional(s): Amanda Lewis, Tom Bradley, Carla Jennings"
+llama3.1:8b,"Patient: Michael Lewis
+Medical Professional(s): Dr Amanda Lewis, Nurse Tom Bradley, Dr Carla Jennings"
+gemini2.5-flash,"Patient: Michael Lewis
+Medical Professional(s): Nurse Tom Bradley, Dr. Carla Jennings"
+claude-opus-4-20250514,"Patient: Michael Lewis
+Medical Professional(s): Tom Bradley, Dr. Carla Jennings"
+gpt-4.1,"Patient: Michael Lewis
+Medical Professional(s): Dr Amanda Lewis, Nurse Tom Bradley, Dr Carla Jennings"
+gemma3:12b,"Patient: Michael Lewis
+Medical Professional(s): Amanda Lewis, Tom Bradley, Carla Jennings"
+llama3.1:8b,"Patient: Michael Lewis
+Medical Professional(s): Dr. Carla Jennings, Nurse Tom Bradley, Dr. Amanda Lewis"
+gemini2.5-flash,"Patient: Michael Lewis
+Medical Professional(s): Tom Bradley, Carla Jennings"
+claude-opus-4-20250514,"Patient: Michael Lewis
+Medical Professional(s): Tom Bradley, Dr. Carla Jennings"
+gpt-4.1,"Patient: Michael Lewis
+Medical Professional(s): Dr Amanda Lewis, Nurse Tom Bradley, Dr Carla Jennings"
+gemma3:12b,"Patient: Michael Lewis
+Medical Professional(s): Amanda Lewis, Tom Bradley, Carla Jennings"
+llama3.1:8b,"Patient: Michael Lewis
+Medical Professional(s): Dr. Carla Jennings, Nurse Tom Bradley, Dr. Amanda Lewis"
+gemini2.5-flash,"Patient: Michael Lewis
+Medical Professional(s): Tom Bradley, Carla Jennings"
+claude-opus-4-20250514,"Patient: Michael Lewis
+Medical Professional(s): Tom Bradley, Dr. Carla Jennings"
+gpt-4.1,"Patient: Michael Lewis
+Medical Professional(s): Dr Amanda Lewis, Nurse Tom Bradley, Dr Carla Jennings"
+gemma3:12b,"Patient: Michael Lewis
+Medical Professional(s): Amanda Lewis, Tom Bradley, Carla Jennings"
+llama3.1:8b,"Patient: Michael Lewis
+Medical Professional(s): Dr. Carla Jennings, Nurse Tom Bradley, Dr. Amanda Lewis"
+gemini2.5-flash,"Patient: Michael Lewis
+Medical Professional(s): Tom Bradley, Carla Jennings"
+claude-opus-4-20250514,"Patient: Michael Lewis
+Medical Professional(s): Tom Bradley, Dr. Carla Jennings"
+gpt-4.1,"Patient: Michael Lewis
+Medical Professional(s): Dr Amanda Lewis, Nurse Tom Bradley, Dr Carla Jennings"
