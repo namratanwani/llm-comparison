@@ -46,8 +46,8 @@ INSTRUCTIONS:
 9. Do not include extra characters for formatting.
 
 STRICT OUTPUT FORMAT:
-Patient: patient_name1, patient_name2, patient_name3
 
+Patient: patient_name1, patient_name2, patient_name3
 Medical Professional(s): attending_medical_professional_name1, attending_medical_professional_name2, attending_medical_professional_name3
 
 SCENARIO:
