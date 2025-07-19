@@ -47,9 +47,11 @@ INSTRUCTIONS:
 
 STRICT OUTPUT FORMAT:
 Patient: patient_name1, patient_name2, patient_name3
+
 Medical Professional(s): attending_medical_professional_name1, attending_medical_professional_name2, attending_medical_professional_name3
 
 SCENARIO:
+
 Dr Amanda Lewis brought her husband, Michael Lewis, to urgent care after he collapsed at home complaining of dizziness and vision loss. Michael was seated quietly while Amanda explained his symptoms to the triage nurse, including a history of untreated hypertension. Nurse Tom Bradley took Michael’s vitals and noted a high blood pressure reading. Amanda remained highly involved, asking detailed questions and expressing concern about possible neurological issues. Michael, who seemed disoriented, responded briefly when asked. Dr. Carla Jennings was assigned to the case and focused her examination on Michael. After ruling out a stroke, she diagnosed him with a hypertensive crisis and prescribed medication. Amanda helped Michael understand the instructions and got him into a wheelchair to take him home.
 
 ## Results
